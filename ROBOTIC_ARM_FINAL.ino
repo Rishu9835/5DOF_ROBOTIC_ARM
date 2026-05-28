@@ -20,11 +20,11 @@
 #include <WiFi.h>
 
 // ── WiFi credentials (STA mode only) ─────────────────────────
-constexpr char WIFI_SSID[] = "Rish";
-constexpr char WIFI_PASSWORD[] = "rishuraj91134";
+constexpr char WIFI_SSID[] = "";
+constexpr char WIFI_PASSWORD[] = "";
 
 // ── Backend WebSocket server ──────────────────────────────────
-constexpr char WS_HOST[] = "10.173.117.34"; // ← set to your server IP
+constexpr char WS_HOST[] = ""; // ← set to your server IP
 constexpr uint16_t WS_PORT = 8765;
 constexpr char WS_PATH[] = "/ws/esp32";
 // ── Reconnect interval ────────────────────────────────────────
