@@ -80,7 +80,7 @@ The ESP32 acts as a pure **WebSocket client** — it connects outward to the Pyt
 |-----------|---------|
 | **Microcontroller** | ESP32 Dev Module (240 MHz, dual-core) |
 | **Servo Driver** | PCA9685 16-channel PWM driver (I2C @ 0x40) |
-| **Servos** | 6× SG90 / MG90S |
+| **Servos** | 6x MG996r / SG90 |
 | **Camera** | DroidCam (phone) or USB webcam |
 | **Power** | 5V for servos (separate from ESP32 logic) |
 
