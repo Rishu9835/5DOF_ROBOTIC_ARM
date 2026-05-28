@@ -1,4 +1,7 @@
 # 🦾 5-DOF Robotic Arm — Autonomous Pick & Place
+<img width="461" height="596" alt="Screenshot 2026-05-29 at 12 49 41 AM" src="https://github.com/user-attachments/assets/027c97af-ffac-4aba-ab59-4211baf71b28" />
+<img width="620" height="457" alt="Screenshot 2026-05-29 at 12 50 33 AM" src="https://github.com/user-attachments/assets/8a42fe57-9571-46dd-a863-a9f0a85f6841" />
+
 
 > ESP32-powered robotic arm with ArUco vision, geometric IK solver, and a real-time web dashboard.
 
