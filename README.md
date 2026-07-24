@@ -525,4 +525,4 @@ SOFTWARE.
 
 ---
 
-*Built with ❤️ using ESP32, FastAPI, OpenCV, and WebSockets.*
+*Built with using ESP32, FastAPI, OpenCV, and WebSockets.*
